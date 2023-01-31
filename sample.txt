@@ -1,0 +1,1 @@
+Hello, this was written from a decorated function
